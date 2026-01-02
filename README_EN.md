@@ -6,7 +6,8 @@
 The objective of this project was to develop an interactive operational report for **"Coffee Roast Co."**, a coffee distributor. The dashboard is designed to monitor Key Performance Indicators (KPIs) and support commercial decision-making across the USA, UK, and Ireland markets, based on historical data from 2019–2022.
 
 ## 2. Data Source & Structure
-The data used in this project is sourced from the open repository: [excel-project-coffee-sales](https://github.com/mochen862/excel-project-coffee-sales).
+Data Source: This project utilizes an open-source dataset originally provided by Mo Chen for educational purposes.
+
 The analysis is based on three Excel worksheets:
 * **Orders:** Transaction log (Order IDs, dates, quantities).
 * **Customers:** Customer demographics, locations, and loyalty status.
