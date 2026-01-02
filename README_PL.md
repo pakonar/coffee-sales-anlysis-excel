@@ -7,6 +7,7 @@ Celem projektu było przygotowanie interaktywnego raportu operacyjnego dla dystr
 
 ## 2. Źródło i struktura danych
 Źródło danych: W projekcie wykorzystano otwarty zbiór danych udostępniony przez Mo Chena w celach edukacyjnych.
+
 Analiza bazuje na trzech arkuszach w pliku Excel:
 * **Orders:** Rejestr transakcji (ID zamówienia, daty, ilości).
 * **Customers:** Dane o klientach, lokalizacji oraz statusie lojalnościowym.
